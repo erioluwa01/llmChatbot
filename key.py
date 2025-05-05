@@ -1,0 +1,1 @@
+groq_key = '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'
